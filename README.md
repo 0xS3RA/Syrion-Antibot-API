@@ -52,7 +52,6 @@ The full documentation is available on our website: [Syrion Antibot Documentatio
 ## 📬 Contact Us
 
 For questions, support, or feedback, feel free to reach out:
-- **Email**: [2doubleprocessus@proton.me](mailto:2doubleprocessus@proton.me)
 - **Website**: [https://www.syrion.io/support](https://www.syrion.io/support)
 
 ---
